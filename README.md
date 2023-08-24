@@ -1,1 +1,1 @@
-My first Readme
+Welcome to my alx-pre_course repository!
